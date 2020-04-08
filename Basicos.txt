@@ -19,3 +19,5 @@
 # log mostra shortlog tb
 
 # git diff antes de commit pra ver o que mudou
+
+# checkout reseta arquivo pro estado anterior (tem q ser antes de add), pra tirar do stage é git reset HEAD "arquivo"
