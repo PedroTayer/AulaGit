@@ -1,0 +1,15 @@
+# git config --global user.name "Pedro Tayer"
+
+# git config --global user.email "meuemail"
+
+# git init na pasta pra poder usar os comandos
+
+# git status mostra arquivos
+
+# add "nome do arquivo" coloca o arquivo no radar do git
+
+# se editar o readme, tem que add dnv
+
+# se estiver ok:
+
+# git commit -m "comentário da versão, exemplo corrigi um bug"
