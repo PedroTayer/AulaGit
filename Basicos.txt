@@ -13,3 +13,7 @@
 # se estiver ok:
 
 # git commit -m "comentário da versão, exemplo corrigi um bug"
+
+# ordem é unstacked -> comando add -> unmodified -> modified -> staged (commit salva o staged e volta pro unmodified)
+
+# log mostra
