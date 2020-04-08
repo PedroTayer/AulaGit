@@ -21,3 +21,7 @@
 # git diff antes de commit pra ver o que mudou
 
 # checkout reseta arquivo pro estado anterior (tem q ser antes de add), pra tirar do stage é git reset HEAD "arquivo"
+# git reset --(soft,hard ou mixed) "hash", soft volta pronto pra comitar, hard exclui tudo, mixed volta antes do add, cuidado com isso pq mexe com o histórico
+
+# git remote add origin https://github.com/PedroTayer/AulaGit.git
+# git push -u origin master manda o arquivo pro github
