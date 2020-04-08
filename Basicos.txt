@@ -16,4 +16,6 @@
 
 # ordem é unstacked -> comando add -> unmodified -> modified -> staged (commit salva o staged e volta pro unmodified)
 
-# log mostra
+# log mostra shortlog tb
+
+# git diff antes de commit pra ver o que mudou
